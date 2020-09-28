@@ -1,0 +1,12 @@
+C:\Users\patrick\source\repos\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.exe
+C:\Users\patrick\source\repos\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.deps.json
+C:\Users\patrick\source\repos\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.runtimeconfig.json
+C:\Users\patrick\source\repos\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.runtimeconfig.dev.json
+C:\Users\patrick\source\repos\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.dll
+C:\Users\patrick\source\repos\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.pdb
+C:\Users\patrick\source\repos\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.AssemblyInfoInputs.cache
+C:\Users\patrick\source\repos\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.AssemblyInfo.cs
+C:\Users\patrick\source\repos\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.csproj.CoreCompileInputs.cache
+C:\Users\patrick\source\repos\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.dll
+C:\Users\patrick\source\repos\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.pdb
+C:\Users\patrick\source\repos\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.genruntimeconfig.cache
