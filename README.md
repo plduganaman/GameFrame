@@ -10,18 +10,18 @@ For example:
 
 Here are the available commands that can be passed to the Game Frame:
 
-            //Argument 1	Argument 2	        Description
+            //Argument 1    Argument 2	Description
             //next                              Next animation.
-            //brightness    0-7	                Set brightness level.
+            //brightness    0-7	            Set brightness level.
             //power         on/off              Power up/down the Game Frame. Leave argument 2 blank to toggle.
             //play          8.3 folder name     Play a specific folder by name.
             //alert         8.3 folder name     Play a specific folder by name as alert.
             //color         RGB color code      Fill the display with a specific color (i.e. #FF0000 for red). You may also pass “random” for a random color.
-            //clockface     1-5	                Change the clock face graphic.
+            //clockface     1-5	            Change the clock face graphic.
             //timezone      UTC Offset          Offset from UTC in hours, from -12.0 to 13.0.
-            //playback      0-2	                Playback mode (0=Sequential, 1=Shuffle, 2=Pause animations).
-            //display	    0-2	                System mode(0=Gallery, 1=Clock, 2=Effects).
-            //cycle	        1-8	                Animation duration(1=10s, 2=30s, 3=1m, 4=5m, 5=15m, 6=30m, 7=1h, 8=infinity).
+            //playback      0-2	            Playback mode (0=Sequential, 1=Shuffle, 2=Pause animations).
+            //display	    0-2	            System mode(0=Gallery, 1=Clock, 2=Effects).
+            //cycle	    1-8	            Animation duration(1=10s, 2=30s, 3=1m, 4=5m, 5=15m, 6=30m, 7=1h, 8=infinity).
             //reboot                            Reboot Game Frame.
             
  Hopefully someone else can get some use out of this.  
