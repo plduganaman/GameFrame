@@ -1,5 +1,5 @@
 # GameFrame
-Exe to send commands to the Game Frame device
+
 I wanted a simple way to send commands to my Game Frame device to do various things based on a schedule
 The exe (which is all you really need but you can modify the source code too) is located in the 
 GameFrame\bin\Debug\netcoreapp3.1 folder
